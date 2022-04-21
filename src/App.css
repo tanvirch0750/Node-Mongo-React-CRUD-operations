@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.users {
+  margin-bottom: 2rem;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 1rem;
+  font-size: 1.6rem;
+  margin: 0 auto;
+  background-color: rgba(0, 255, 255, 0.411);
+}
+
+caption {
+  font-size: 2.4rem;
+  margin-bottom: 1.2rem;
+}
+
+form {
+  width: 400px;
+  padding: 2rem;
+  margin: 0 auto;
+  text-align: center;
+  background-color: aqua;
+}
+
+input {
+  width: 100%;
+  padding: 1.3rem 0;
+  padding-left: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: orangered;
+  color: #fff;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.update {
+  background-color: green;
+}

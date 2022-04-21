@@ -1,0 +1,15 @@
+header {
+  padding: 1.5rem 3rem;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  background-color: aqua;
+  color: #fff;
+}
+
+header a {
+  color: black;
+  font-weight: 600;
+}
